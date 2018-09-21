@@ -23,6 +23,9 @@ Contributing
 If you would like to contribute, please see `contributing.md` before you begin.
 Then, take a look at the setup instructions below.
 
+We are on [Keybase](https://keybase.io) `@OpenFinanceNet`.  Token development chat 
+happens in `#token-dev`.  Please request an invite if you would like to join the chat!
+
 Architecture
 --
 
