@@ -10,7 +10,7 @@ Splash - S3 - Smart Securities Standard
 Overview
 --
 
-Splash - S3 has grown out of the Splash Exchanges's efforts to automate certain
+Splash - S3 has grown out of the Splash Exchange's efforts to automate certain
 aspects of running a compliant alternatives exchange.  Currently, it consists
 of a smart contract library and a typescript library for manipulating these
 contracts.  However, the full scope includes a standard protocol that exchanges
