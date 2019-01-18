@@ -4,7 +4,7 @@ solidity: 0.4.24
 status: experimental
 ---
 
-OpenFinance S3 - Smart Securities Standard
+Splash - S3 - Smart Securities Standard
 ==
 
 Overview
