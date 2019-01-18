@@ -4,7 +4,7 @@ solidity: 0.4.24
 status: experimental
 ---
 
-Splash - S3 - Smart Securities Standard
+Splash Securities Standard - S3
 ==
 
 Overview
